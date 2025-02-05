@@ -1,5 +1,5 @@
 # vonware-4.1.0-clean
-Make the image jar file public
+Make jar file public
 
 I've already confirmed in passing that there is no RAT
 
