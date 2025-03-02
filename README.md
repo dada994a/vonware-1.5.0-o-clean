@@ -4,7 +4,7 @@ Make jar file public
 I've already confirmed in passing that there is no RAT
 
 2025/03/02 Updated vonware-1.5.0-o
-Many people said “rat”, so I removed that part (although it is still not rat).
+I removed the code that was called "RAT" by many people (though it wasn’t actually a RAT anyway).
 
 Forge 1.12.2
 
