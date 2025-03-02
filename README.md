@@ -1,4 +1,4 @@
-#vonware-1.5.0-o
+# vonware-1.5.0-o
 Make jar file public
 
 I've already confirmed in passing that there is no RAT
